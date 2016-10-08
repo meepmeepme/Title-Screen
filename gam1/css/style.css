@@ -1,0 +1,16 @@
+body{
+	background-color: lightgrey;
+	color: purple;
+	font-family: verdana;	
+	font-size: 40px;
+	height: 720px;
+	width: 1080px;
+} 
+.button{
+	height: 40px;
+	width: 24%;
+	border-color: purple;
+	background-color: white;
+	color: purple;
+	font-size: 30px;
+}
