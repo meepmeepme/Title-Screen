@@ -8,7 +8,9 @@ body{
 }
 .button{
 	height: 40px;
-	width: 400px;
+	width: 24%;
 	border-color: purple;
 	background-color: white;
+	color: purple;
+	font-size: 30px;
 }
