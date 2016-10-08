@@ -6,6 +6,9 @@ body{
 	height: 720px;
 	width: 1080px;
 }
-.butt{
-
+.button{
+	height: 40px;
+	width: 400px;
+	border-color: purple;
+	background-color: white;
 }
