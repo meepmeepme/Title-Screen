@@ -1,6 +1,6 @@
 body{
-	background-color: lightgrey;
-	color: purple;
+	background-color: 	#47005a;
+	color:#00578b;
 	font-family: verdana;	
 	font-size: 40px;
 	height: 720px;
@@ -9,8 +9,25 @@ body{
 .button{
 	height: 40px;
 	width: 24%;
-	border-color: purple;
-	background-color: white;
-	color: purple;
+	border-color: #105272;
+	background-color: #5b0e7e;
+	color: #105272;
 	font-size: 30px;
 }
+table{
+	border:solid;
+	width: 100%;
+	border-collapse: collapse;
+}
+td, th{
+	border: solid;
+}
+#pic{
+	height: 100%;
+	width: 100%;
+}
+#nun{
+	border: none;
+	padding: 0px;
+}
+
