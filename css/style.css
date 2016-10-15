@@ -30,4 +30,21 @@ td, th{
 	border: none;
 	padding: 0px;
 }
+#pic2{
+	height: 50%;
+	width: 50%;
+	background-color:#5b0e7e;
+	border: solid;
+	border-color:#00578b;
+	border-collapse: collapse;
+	border-top: none;
+}
+#picdrop{
+	height: 200%;
+	width: 100%;
+	background-color:#5b0e7e;
+	border: solid;
+	border-color:#00578b;
+	border-collapse: collapse;
 
+}

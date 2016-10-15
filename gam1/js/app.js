@@ -1,11 +1,11 @@
 var img = {
 a:'Do a comp',
 b:'Do hide and seek',
-c:'Do TTT',
+c:'Do TTT', 
 d:"Play some anti tank H&G",
 e:"Play as sniper in PF",
 f:"fill an alt in Apoc",
-g:"Do some Minecraft minigames",
+g:"Do some Gmod minigames",
 h:"Try to AWP",
 i:"Do heavy only WT",
 j:'Prop Hunt',
